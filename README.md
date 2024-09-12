@@ -31,7 +31,7 @@ This project implements a user-friendly webinar solution built with the MERN sta
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/manish7532/ConnectWave
+git clone https://github.com/manish0732/ConnectWave
 ```
 
 ### 3. Setup Environment Variables
@@ -90,7 +90,7 @@ npm install
 
 ##  Authors
 
-- [Manish Joshi](https://github.com/manish7532/)
+- [Manish Joshi](https://github.com/manish0732/)
 - [Anushka Shewale](https://github.com/anushkas1204/)
 
 ## Support
